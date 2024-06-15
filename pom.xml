@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.houari</groupId>
-    <artifactId>Calculator</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>calculator</artifactId>
+    <version>1.0-snapshot</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
